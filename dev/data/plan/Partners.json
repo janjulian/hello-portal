@@ -1,0 +1,64 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Partner",
+                "referenceId": "PartnerRef1"
+            },
+            "AccountFromId": "@AccountRef1",
+            "AccountToId": "@AccountRef6",
+            "Role": "Vendor",
+            "IsPrimary": false
+        },
+        {
+            "attributes": {
+                "type": "Partner",
+                "referenceId": "PartnerRef2"
+            },
+            "AccountFromId": "@AccountRef2",
+            "AccountToId": "@AccountRef6",
+            "Role": "Vendor",
+            "IsPrimary": false
+        },
+        {
+            "attributes": {
+                "type": "Partner",
+                "referenceId": "PartnerRef3"
+            },
+            "AccountFromId": "@AccountRef6",
+            "AccountToId": "@AccountRef7",
+            "Role": "Distributor",
+            "IsPrimary": false
+        },
+        {
+            "attributes": {
+                "type": "Partner",
+                "referenceId": "PartnerRef4"
+            },
+            "AccountFromId": "@AccountRef6",
+            "AccountToId": "@AccountRef1",
+            "Role": "Distributor",
+            "IsPrimary": false
+        },
+        {
+            "attributes": {
+                "type": "Partner",
+                "referenceId": "PartnerRef5"
+            },
+            "AccountFromId": "@AccountRef6",
+            "AccountToId": "@AccountRef2",
+            "Role": "Distributor",
+            "IsPrimary": false
+        },
+        {
+            "attributes": {
+                "type": "Partner",
+                "referenceId": "PartnerRef6"
+            },
+            "AccountFromId": "@AccountRef7",
+            "AccountToId": "@AccountRef6",
+            "Role": "Vendor",
+            "IsPrimary": false
+        }
+    ]
+}

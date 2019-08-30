@@ -1,0 +1,13 @@
+{
+  "orgName": "Hello Portal",
+  "country": "CA",
+  "edition": "Developer",
+  "hasSampleData": false,
+  "features": ["Communities","Sites","SiteDotCom"],
+  "settings": {
+    "orgPreferenceSettings": {
+      "s1DesktopEnabled": true,
+      "networksEnabled": true
+    }
+  }
+}

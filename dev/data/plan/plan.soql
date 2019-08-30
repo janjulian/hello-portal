@@ -1,0 +1,6 @@
+select 
+    Id, Name, 
+    BillingStreet, BillingCity, BillingState, BillingPostalCode, BillingCountry, 
+    (SELECT Id, AccountFromId, AccountToId, Role, IsPrimary FROM PartnersFrom), 
+    (select id, FirstName, LastName, Email from Contacts) 
+from Account

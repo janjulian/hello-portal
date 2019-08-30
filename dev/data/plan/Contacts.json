@@ -1,0 +1,73 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef1"
+            },
+            "FirstName": "Norah",
+            "LastName": "Flynn",
+            "Email": "norah.flynn@dx.o2epartner.com",
+            "AccountId": "@AccountRef1"
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef2"
+            },
+            "FirstName": "Mable",
+            "LastName": "Davis",
+            "Email": "mable.davis@dx.o2epartner.com",
+            "AccountId": "@AccountRef2"
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef3"
+            },
+            "FirstName": "Big",
+            "LastName": "Bossman",
+            "AccountId": "@AccountRef3"
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef4"
+            },
+            "FirstName": "Charlotte",
+            "LastName": "Perkins",
+            "Email": "charlotte.perkins@dx.o2ebrands.com",
+            "AccountId": "@AccountRef4"
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef5"
+            },
+            "FirstName": "Damon",
+            "LastName": "Smith",
+            "Email": "damon.smith@dx.o2ebrands.com",
+            "AccountId": "@AccountRef4"
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef6"
+            },
+            "FirstName": "Ernest",
+            "LastName": "Rios",
+            "Email": "ernest.rios@dx.o2ebrands.com",
+            "AccountId": "@AccountRef5"
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef7"
+            },
+            "FirstName": "Joe",
+            "LastName": "Combs",
+            "Email": "joe.combs@dx.o2epartner.com",
+            "AccountId": "@AccountRef7"
+        }
+    ]
+}
